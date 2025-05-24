@@ -1,0 +1,10 @@
+.nameResult {
+
+color: white;
+font-weight: bold;
+font-size: 25px;
+margin-left: 30px;
+font-family: var(--font-style);
+background-color: var(--container-background-color);
+}
+

@@ -1,0 +1,14 @@
+
+
+.results{
+margin-top: 10px;
+margin-left: 20px;
+display: flex;
+background-color: var(--container-background-color);
+align-items: center;
+font-size: 15px;
+color: var(--text-colorH1);
+font-weight: bold;
+font-family: var(--font-style);
+}
+
