@@ -24,7 +24,7 @@ Este é um projeto simples de consulta de CEPs utilizando JavaScript, HTML e a A
 
 📂 Estrutura do Projeto
 
-PLAYGROUND_JS/
+ConsultaCEPViaCep/
 ├── assets/
 │   └── css/
 │       ├── container.css
