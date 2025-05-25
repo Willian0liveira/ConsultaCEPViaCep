@@ -1,11 +1,11 @@
 
 
 let cepString = document.getElementById('inputText').value;
-let localidade = 'Não foi possível obter dados sobre a cidade';
-let estado = 'Não foi possível obter dados sobre o estado';
-let logradouro = 'Não foi possível obter dados sobre o logradouro';
-let bairro = 'Não foi possível obter dados sobre o bairro';
-let regiao = 'Não foi possível obter dados sobre a região';
+const localidade = 'Não foi possível obter dados sobre a cidade';
+const estado = 'Não foi possível obter dados sobre o estado';
+const logradouro = 'Não foi possível obter dados sobre o logradouro';
+const bairro = 'Não foi possível obter dados sobre o bairro';
+const regiao = 'Não foi possível obter dados sobre a região';
 
 function btnConsultar(){
 cepString = document.getElementById('inputText').value;
