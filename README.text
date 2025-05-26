@@ -54,8 +54,8 @@ ConsultaCEPViaCep/
 
 1. Clone ou baixe o repositório.
 2. Abra o arquivo `index.html` no navegador.
-3. Insira um CEP sem traços ( ex: 01001000 ) no campo de texto e clique no botão "Consultar".
-
+3. Se preferir, acesse diretamente no seu navegdor https://viacepconsulta.web.app
+4. Insira um CEP sem traços ( ex: 01001000 ) no campo de texto e clique no botão "Consultar".
 --------------------------------------------------
 
 🤝 Contribuição
